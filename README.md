@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kimstitute/kimstitute/main/assets/header.svg" width="100%" alt="Minsang Kim — Sogang University, VDSL">
+  <img src="https://raw.githubusercontent.com/kimstitute/kimstitute/main/assets/header.svg?v=gaussian-portrait" width="100%" alt="Minsang Kim — Sogang University, VDSL">
 </p>
 
 <p align="center">
