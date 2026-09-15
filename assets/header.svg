@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">kimstitute</title>
+  <desc id="desc">Research, tools, and the connections between them. A dark navy banner with a mint network of connected cards.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f32"/><stop offset="1" stop-color="#07131f"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#2bb59c" stop-opacity=".17"/><stop offset="1" stop-color="#2bb59c" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#98b5c6" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1280" height="380" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="380" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="190" rx="340" ry="280" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="60" y="58" width="30" height="4" rx="2" fill="#78e0c5"/>
+    <text x="104" y="65" font-size="13" font-weight="700" letter-spacing="3" fill="#b2c7d6">RESEARCH / CODE / TOOLS</text>
+    <text x="56" y="170" font-size="80" font-weight="700" letter-spacing="-3" fill="#f2f7fb">kimstitute<tspan fill="#78e0c5">.</tspan></text>
+    <text x="60" y="222" font-size="23" fill="#c1d1dc">Research, tools, and the</text>
+    <text x="60" y="254" font-size="23" fill="#c1d1dc">connections between them.</text>
+    <text x="60" y="326" font-size="12" letter-spacing="2" fill="#7e9aaf">MACHINE LEARNING</text>
+    <circle cx="231" cy="321" r="2" fill="#78e0c5"/>
+    <text x="248" y="326" font-size="12" letter-spacing="2" fill="#7e9aaf">DEVELOPER TOOLS</text>
+    <circle cx="414" cy="321" r="2" fill="#78e0c5"/>
+    <text x="431" y="326" font-size="12" letter-spacing="2" fill="#7e9aaf">RESEARCH WORKFLOWS</text>
+    <g fill="none" stroke="#60bda8" stroke-width="2" opacity=".55">
+      <path d="M866 129 988 188 1110 106M988 188 1125 282M866 129 808 285 988 188"/>
+      <path d="M808 285 1125 282" stroke-dasharray="4 8"/>
+    </g>
+    <rect x="760" y="66" width="184" height="104" rx="13" fill="#162d40" stroke="#395b6a"/>
+    <g stroke="#78e0c5" stroke-width="2" fill="none"><path d="m784 100 8-7 8 7-8 7zm26 0 8-7 8 7-8 7z"/><path d="M784 122h51m-51 12h83" stroke="#587b8e"/></g>
+    <text x="848" y="104" fill="#d3e9e7" font-size="12" font-weight="700">BUILD</text>
+    <rect x="1054" y="58" width="154" height="94" rx="13" fill="#142b3c" stroke="#395b6a"/>
+    <text x="1074" y="86" fill="#d3e9e7" font-size="12" font-weight="700">EXPLORE</text>
+    <g fill="#78e0c5"><rect x="1075" y="118" width="14" height="14" rx="2"/><rect x="1100" y="106" width="14" height="26" rx="2"/><rect x="1125" y="96" width="14" height="36" rx="2"/><rect x="1150" y="110" width="14" height="22" rx="2"/></g>
+    <rect x="741" y="249" width="159" height="80" rx="13" fill="#142b3c" stroke="#395b6a"/>
+    <text x="762" y="279" fill="#d3e9e7" font-size="12" font-weight="700">CONNECT</text>
+    <path d="M765 300h29m15 0h55" stroke="#78e0c5" stroke-width="3" stroke-linecap="round"/>
+    <rect x="1040" y="245" width="169" height="80" rx="13" fill="#142b3c" stroke="#395b6a"/>
+    <text x="1062" y="275" fill="#d3e9e7" font-size="12" font-weight="700">REFINE</text>
+    <path d="m1063 304 17-12 22 8 25-17 32 7" fill="none" stroke="#78e0c5" stroke-width="2"/>
+    <circle cx="988" cy="188" r="23" fill="#0d222f" stroke="#78e0c5" stroke-width="2"/>
+    <circle cx="988" cy="188" r="7" fill="#78e0c5"/>
+  </g>
+</svg>
