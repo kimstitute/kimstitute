@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
   <title id="title">Minsang Kim · VDSL</title>
-  <desc id="desc">Researcher at Sogang University, Department of Electronic Engineering. Integrated M.S.–Ph.D. student in the Vision and Display Systems Lab.</desc>
+  <desc id="desc">Researcher at Sogang University, Department of Electronic Engineering. Integrated Master's and Ph.D. Program, VDSL.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f32"/><stop offset="1" stop-color="#07131f"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#2bb59c" stop-opacity=".17"/><stop offset="1" stop-color="#2bb59c" stop-opacity="0"/></radialGradient>
@@ -13,8 +13,8 @@
     <rect x="60" y="58" width="30" height="4" rx="2" fill="#78e0c5"/>
     <text x="104" y="65" font-size="13" font-weight="700" letter-spacing="3" fill="#b2c7d6">RESEARCHER / VDSL</text>
     <text x="56" y="170" font-size="76" font-weight="700" letter-spacing="-3" fill="#f2f7fb">Minsang Kim<tspan fill="#78e0c5">.</tspan></text>
-    <text x="60" y="222" font-size="23" fill="#c1d1dc">Integrated M.S.–Ph.D. Student</text>
-    <text x="60" y="254" font-size="23" fill="#c1d1dc">Sogang University</text>
+    <text x="60" y="222" font-size="23" fill="#c1d1dc">Integrated Master's and Ph.D. Program</text>
+    <text x="60" y="254" font-size="23" fill="#c1d1dc">Sogang University, VDSL</text>
     <text x="60" y="326" font-size="12" letter-spacing="2" fill="#7e9aaf">DEPARTMENT OF ELECTRONIC ENGINEERING</text>
     <g fill="none" stroke="#60bda8" stroke-width="2" opacity=".55">
       <path d="M866 129 988 188 1110 106M988 188 1125 282M866 129 808 285 988 188"/>
