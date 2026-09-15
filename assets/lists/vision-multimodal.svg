@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-labelledby="title">
+<title id="title">Video &amp; Multimodal Vision — vision-multimodal</title>
+<rect x="1" y="1" width="398" height="228" rx="20" fill="#dff5f0" stroke="#0e7667" stroke-opacity=".16"/>
+<circle cx="352" cy="28" r="103" fill="#0e7667" opacity=".045"/>
+<circle cx="352" cy="28" r="75" fill="none" stroke="#0e7667" opacity=".08"/>
+<text x="25" y="30" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#0e7667">VISION</text>
+<g transform="translate(270 45) scale(.91)" stroke="#0e7667" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="14" width="66" height="57" rx="9"/><path d="m71 33 22-12v42L71 51M30 29l23 14-23 14Z"/><path d="M17 86h4m10 0h12m10 0h25"/></g>
+<path d="M27 81h34m-34 10h21" stroke="#0e7667" stroke-width="3" opacity=".3" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#18323b"><text x="25" y="166">Video &amp;</text><text x="25" y="196">Multimodal Vision</text></g>
+<path d="M354 188h17m-7-7 7 7-7 7" fill="none" stroke="#0e7667" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

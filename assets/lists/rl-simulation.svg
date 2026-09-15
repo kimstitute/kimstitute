@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-labelledby="title">
+<title id="title">Reinforcement Learning &amp; Simulation — rl-simulation</title>
+<rect x="1" y="1" width="398" height="228" rx="20" fill="#dff5f0" stroke="#0e7667" stroke-opacity=".16"/>
+<circle cx="352" cy="28" r="103" fill="#0e7667" opacity=".045"/>
+<circle cx="352" cy="28" r="75" fill="none" stroke="#0e7667" opacity=".08"/>
+<text x="25" y="30" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#0e7667">LEARNING</text>
+<g transform="translate(270 45) scale(.91)" stroke="#0e7667" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M20 24A34 34 0 0 1 80 25m0 41A34 34 0 0 1 20 66M20 10v14h14m46 56V66H66"/><path d="m50 26 6 12 14 2-10 10 2 14-12-7-12 7 2-14-10-10 14-2Z"/></g>
+<path d="M27 81h34m-34 10h21" stroke="#0e7667" stroke-width="3" opacity=".3" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#18323b"><text x="25" y="166">Reinforcement Learning</text><text x="25" y="196">&amp; Simulation</text></g>
+<path d="M354 188h17m-7-7 7 7-7 7" fill="none" stroke="#0e7667" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

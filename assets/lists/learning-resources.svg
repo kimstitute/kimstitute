@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-labelledby="title">
+<title id="title">Learning Resources — learning-resources</title>
+<rect x="1" y="1" width="398" height="228" rx="20" fill="#fff2dd" stroke="#a16b20" stroke-opacity=".16"/>
+<circle cx="352" cy="28" r="103" fill="#a16b20" opacity=".045"/>
+<circle cx="352" cy="28" r="75" fill="none" stroke="#a16b20" opacity=".08"/>
+<text x="25" y="30" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#a16b20">RESEARCH</text>
+<g transform="translate(270 45) scale(.91)" stroke="#a16b20" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M50 21C37 9 16 8 6 14v65c17-7 31-1 44 9 13-10 27-16 44-9V14c-10-6-31-5-44 7Zm0 0v67M18 30l18 4M18 45l18 4M18 60l18 4m28-30 18-4M64 49l18-4M64 64l18-4"/></g>
+<path d="M27 81h34m-34 10h21" stroke="#a16b20" stroke-width="3" opacity=".3" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#18323b"><text x="25" y="166">Learning</text><text x="25" y="196">Resources</text></g>
+<path d="M354 188h17m-7-7 7 7-7 7" fill="none" stroke="#a16b20" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

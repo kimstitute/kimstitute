@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-labelledby="title">
+<title id="title">Command Line Tools — cli-tools</title>
+<rect x="1" y="1" width="398" height="228" rx="20" fill="#fce9ed" stroke="#aa4b69" stroke-opacity=".16"/>
+<circle cx="352" cy="28" r="103" fill="#aa4b69" opacity=".045"/>
+<circle cx="352" cy="28" r="75" fill="none" stroke="#aa4b69" opacity=".08"/>
+<text x="25" y="30" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#aa4b69">WORKFLOW</text>
+<g transform="translate(270 45) scale(.91)" stroke="#aa4b69" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="12" width="88" height="71" rx="7"/><path d="M6 29h88M18 20h1m10 0h1M21 44l15 12-15 12m27 0h25"/></g>
+<path d="M27 81h34m-34 10h21" stroke="#aa4b69" stroke-width="3" opacity=".3" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#18323b"><text x="25" y="166">Command Line</text><text x="25" y="196">Tools</text></g>
+<path d="M354 188h17m-7-7 7 7-7 7" fill="none" stroke="#aa4b69" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

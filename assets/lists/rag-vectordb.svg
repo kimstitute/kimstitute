@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-labelledby="title">
+<title id="title">Retrieval &amp; Vector Databases — rag-vectordb</title>
+<rect x="1" y="1" width="398" height="228" rx="20" fill="#e5efff" stroke="#3269ae" stroke-opacity=".16"/>
+<circle cx="352" cy="28" r="103" fill="#3269ae" opacity=".045"/>
+<circle cx="352" cy="28" r="75" fill="none" stroke="#3269ae" opacity=".08"/>
+<text x="25" y="30" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3269ae">KNOWLEDGE</text>
+<g transform="translate(270 45) scale(.91)" stroke="#3269ae" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="40" cy="18" rx="29" ry="10"/><path d="M11 18v22c0 12 40 14 58 5V18M11 41v24c0 10 18 12 30 11"/><circle cx="65" cy="63" r="19"/><path d="m79 77 14 14M57 63h16"/></g>
+<path d="M27 81h34m-34 10h21" stroke="#3269ae" stroke-width="3" opacity=".3" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#18323b"><text x="25" y="166">Retrieval &amp;</text><text x="25" y="196">Vector Databases</text></g>
+<path d="M354 188h17m-7-7 7 7-7 7" fill="none" stroke="#3269ae" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

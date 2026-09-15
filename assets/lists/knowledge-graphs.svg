@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-labelledby="title">
+<title id="title">Knowledge Graphs — knowledge-graphs</title>
+<rect x="1" y="1" width="398" height="228" rx="20" fill="#e5efff" stroke="#3269ae" stroke-opacity=".16"/>
+<circle cx="352" cy="28" r="103" fill="#3269ae" opacity=".045"/>
+<circle cx="352" cy="28" r="75" fill="none" stroke="#3269ae" opacity=".08"/>
+<text x="25" y="30" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3269ae">KNOWLEDGE</text>
+<g transform="translate(270 45) scale(.91)" stroke="#3269ae" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="19" r="8"/><circle cx="75" cy="12" r="7"/><circle cx="47" cy="47" r="10"/><circle cx="13" cy="81" r="7"/><circle cx="86" cy="77" r="9"/><path d="m24 25 16 15m15-1 15-21M40 54 19 75m37-22 23 18M25 18l43-5M18 27l-4 47"/></g>
+<path d="M27 81h34m-34 10h21" stroke="#3269ae" stroke-width="3" opacity=".3" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#18323b"><text x="25" y="166">Knowledge</text><text x="25" y="196">Graphs</text></g>
+<path d="M354 188h17m-7-7 7 7-7 7" fill="none" stroke="#3269ae" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
