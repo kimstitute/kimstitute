@@ -1,36 +1,43 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kimstitute/kimstitute/main/assets/header.svg" width="100%" alt="kimstitute — Research, tools, and the connections between them">
+  <img src="https://raw.githubusercontent.com/kimstitute/kimstitute/main/assets/header.svg" width="100%" alt="Minsang Kim — Researcher at VDSL, Sogang University">
 </p>
 
 <p align="center">
-  <strong>Exploring machine learning. Building tools for everyday research.</strong><br>
-  머신러닝을 탐구하고, 연구와 개발에 직접 쓰는 도구를 만듭니다.
+  <strong>Integrated M.S.–Ph.D. Student · Department of Electronic Engineering</strong><br>
+  Sogang University · Vision &amp; Display Systems Lab (VDSL)<br>
+  <sub>서강대학교 전자공학과 석박통합과정 · VDSL</sub>
 </p>
 
 <p align="center">
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#the-zotero-toolbox">Zotero toolbox</a> &nbsp; / &nbsp;
-  <a href="https://github.com/kimstitute?tab=repositories">All repositories</a>
+  <a href="https://kr.linkedin.com/in/minsang-kim-seoul"><strong>LinkedIn ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://vds.sogang.ac.kr/">VDSL ↗</a> &nbsp; / &nbsp;
+  <a href="https://vds.sogang.ac.kr/?p=5353">Lab profile ↗</a> &nbsp; / &nbsp;
+  <a href="#research-code">Research code</a> &nbsp; / &nbsp;
+  <a href="#tools-for-research">Tools for research</a>
 </p>
 
 ---
 
-### What I work on
+## About
 
-**Machine learning** — multimodal and sequential recommendation, with experiments built on RecBole.<br>
-**Developer tools** — visual workspaces that keep code, terminals, and notes together.<br>
-**Research workflows** — connecting papers, authors, reading, and literature notes inside Zotero.
+I am an integrated M.S.–Ph.D. student in the **Department of Electronic Engineering at Sogang University**, and a member of the **[Vision & Display Systems Lab (VDSL)](https://vds.sogang.ac.kr/)**.
 
-## Selected work
+## Research interests
+
+| Reinforcement Learning | 3D/4D Computer Vision | Agentic AI |
+| :---: | :---: | :---: |
+| 강화학습 | 3D/4D 컴퓨터 비전 | 에이전트 기반 AI |
+
+## Research code
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/kimstitute/spatial-workbench">Spatial Workbench ↗</a></h3>
-<p><strong>A canvas for your coding context.</strong></p>
-<p>A persistent, zoomable workspace for files, terminals, folders, and notes inside VS Code.</p>
-<p><sub>DEVELOPER TOOLS · JAVASCRIPT · VS CODE</sub></p>
-<a href="https://marketplace.visualstudio.com/items?itemName=kimstitute.vscice-spatial-workspace">Install from Marketplace →</a>
+<h3><a href="https://github.com/kimstitute/QuantMARLGA">QuantMARLGA ↗</a></h3>
+<p><strong>Multi-agent reinforcement learning.</strong></p>
+<p>A research implementation combining multi-agent reinforcement learning and genetic algorithms for quantitative trading.</p>
+<p><sub>REINFORCEMENT LEARNING · EVOLUTIONARY METHODS</sub></p>
+<a href="https://github.com/kimstitute/QuantMARLGA#readme">Explore the project →</a>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/kimstitute/PADAFMSRec">PADAFMSRec ↗</a></h3>
@@ -42,9 +49,12 @@
 </tr>
 </table>
 
-## The Zotero toolbox
+## Tools for research
 
-Small extensions for the steps between finding a paper and making it part of your work.
+Alongside my research, I build tools for reading papers, organizing literature, and managing experiments.
+
+<details>
+<summary><strong>Zotero extensions — discovery, reading, and literature notes</strong></summary>
 
 | | Project | What it connects |
 | :---: | :--- | :--- |
@@ -55,14 +65,14 @@ Small extensions for the steps between finding a paper and making it part of you
 
 <p><sub>Independent integrations. Each repository includes its own installation guide and compatibility notes.</sub></p>
 
-### Also exploring
+</details>
 
-[**BDP-MMSASRec**](https://github.com/kimstitute/BDP-MMSASRec) — comparing SASRec-based models with multimodal feature fusion.
+[**Spatial Workbench**](https://github.com/kimstitute/spatial-workbench) — a persistent canvas for files, terminals, and notes inside VS Code.
 
 ---
 
 <p align="center">
-  <sub>Research → Build → Refine</sub><br>
-  <a href="https://github.com/kimstitute?tab=repositories">Browse the code</a> ·
-  <a href="https://github.com/kimstitute/kimstitute">Profile source</a>
+  <a href="https://kr.linkedin.com/in/minsang-kim-seoul">Connect on LinkedIn</a> ·
+  <a href="https://vds.sogang.ac.kr/">Visit the lab</a> ·
+  <a href="https://github.com/kimstitute?tab=repositories">All repositories</a>
 </p>
