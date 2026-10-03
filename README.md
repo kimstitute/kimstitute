@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kimstitute/kimstitute/4342d0ba1017b422de0e9816f58cb28663a40002/assets/header.svg" width="100%" alt="Minsang Kim — Sogang University, VDSL">
+  <img src="https://raw.githubusercontent.com/kimstitute/kimstitute/4342d0ba1017b422de0e9816f58cb28663a40002/assets/header.svg" width="100%" alt="Minsang Kim — Sogang University, VIDS Lab">
 </p>
 
 <p align="center">
-  <strong>Sogang University, VDSL</strong><br>
+  <strong>Sogang University, VIDS Lab</strong><br>
   Integrated Master's and Ph.D. Program<br>
   <sub>Department of Electronic Engineering</sub>
 </p>
 
 <p align="center">
-  <a href="https://vds.sogang.ac.kr/"><strong>VDSL ↗</strong></a> &nbsp; / &nbsp;
+  <a href="https://vds.sogang.ac.kr/"><strong>VIDS Lab ↗</strong></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/minsang-kim-seoul/"><strong>LinkedIn ↗</strong></a>
 </p>
 
-I am a researcher in the Integrated Master's and Ph.D. Program in the Department of Electronic Engineering at Sogang University, and a member of VDSL. My interests center on 3D representation learning, 3D/4D computer vision, video understanding, and 3D Gaussian Splatting. I also study reinforcement learning and agentic AI, with an interest in how intelligent agents learn, reason, and interact with their environments.
+I am a researcher in the Integrated Master's and Ph.D. Program in the Department of Electronic Engineering at Sogang University, and a member of VIDS Lab. My interests center on 3D representation learning, 3D/4D computer vision, video understanding, and 3D Gaussian Splatting. I also study reinforcement learning and agentic AI, with an interest in how intelligent agents learn, reason, and interact with their environments.
 
 ---
 
